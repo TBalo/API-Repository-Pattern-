@@ -1,4 +1,4 @@
-# API-Repository-Pattern-
+# API-Repository-Pattern
 API repository pattern with ASP.net core 6.0
 
 
